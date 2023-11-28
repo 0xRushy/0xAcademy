@@ -4,6 +4,6 @@
  
 -  بنتكلم عن تكنيكات اختراق البلوتوث 
  
- - بنتكلم عن هجمات Cryptanalysis Side-Channel وثغرات زي Spectre و Meltdown
+ - بنتكلم عن هجمات Cryptanalysis Side-Channel
  
- -  بنشرح تصميم الميكروبروسيسور 
+ -  بنشرح تصميم الميكروبروسيسور وبعض ثغراته زي Spectre و Meltdown
